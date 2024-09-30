@@ -160,6 +160,7 @@ Spark was used for both batch and streaming data processing. The configuration i
 - **Team Members**:
   - Abdelrahman Elmagry - [LinkedIn](https://www.linkedin.com/in/elmagry123)
   - Maya Assem - [LinkedIn](https://www.linkedin.com/in/maya-assem-611b4723b)
+  - Hassan Elmahallawy - [LinkedIn](https://www.linkedin.com/in/hassan-elmahallawy-2332701b4/)
   - Nancy Youssef - [LinkedIn](https://www.linkedin.com/in/nancy-youssef-16649124a)
 - **Instructors and Facilitators**:
   - Salma Khaled - [LinkedIn](https://www.linkedin.com/in/salma-khaled-8034a8203)
